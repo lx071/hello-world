@@ -1,7 +1,7 @@
 all: compile run
 
 compile:
-	gcc hello.c -o long
+	gcc opt.c -o long
 
 run:
 # 正确输入长选项的情况

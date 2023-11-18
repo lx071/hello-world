@@ -1,7 +1,7 @@
 all: compile run
 
 compile:
-	gcc hello.c -o opt
+	gcc opt.c -o opt
 
 run:
 # 输入选项及参数正确的情况

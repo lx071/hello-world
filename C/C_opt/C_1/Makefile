@@ -1,7 +1,7 @@
 all: compile run
 
 compile:
-	gcc hello.c
+	gcc opt.c
 
 run:
 	./a.out testing
