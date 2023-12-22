@@ -32,6 +32,5 @@ int main()
 
 	std::cout << "执行时间：" << duration.count() << std::endl;
 
-	system("pause");
 	return 0;
 }
